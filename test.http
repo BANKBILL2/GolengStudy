@@ -1,0 +1,2 @@
+GET /fizzbuzz/10 HTTP/1.1
+Host: 00.0.0:8888
